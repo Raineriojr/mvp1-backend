@@ -1,0 +1,56 @@
+[2023-05-03 17:24:18,839] INFO _log() L224   * Restarting with stat - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:24:19,963] INFO _log() L224  127.0.0.1 - - [03/May/2023 17:24:19] "GET /openapi/swagger HTTP/1.1" 200 - - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:24:20,213] INFO _log() L224  127.0.0.1 - - [03/May/2023 17:24:20] "[36mGET /openapi/static/css/swagger-ui.css HTTP/1.1[0m" 304 - - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:24:20,218] INFO _log() L224  127.0.0.1 - - [03/May/2023 17:24:20] "[36mGET /openapi/static/js/swagger-ui-bundle.js HTTP/1.1[0m" 304 - - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:24:20,415] INFO _log() L224  127.0.0.1 - - [03/May/2023 17:24:20] "[36mGET /openapi/static/js/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 - - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:24:20,984] INFO _log() L224  127.0.0.1 - - [03/May/2023 17:24:20] "GET /openapi/openapi.json HTTP/1.1" 200 - - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:24:21,013] INFO _log() L224  127.0.0.1 - - [03/May/2023 17:24:21] "[36mGET /openapi/static/images/swagger.svg HTTP/1.1[0m" 304 - - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:25:09,568] INFO _log() L224   * Detected change in 'D:\\Apps\\aulas_pos\\mvp\\backend\\app.py', reloading - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:25:10,015] INFO _log() L224   * Restarting with stat - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:25:12,316] INFO _log() L224  127.0.0.1 - - [03/May/2023 17:25:12] "GET /openapi/swagger HTTP/1.1" 200 - - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:25:12,952] INFO _log() L224  127.0.0.1 - - [03/May/2023 17:25:12] "[36mGET /openapi/static/js/swagger-ui-bundle.js HTTP/1.1[0m" 304 - - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:25:12,964] INFO _log() L224  127.0.0.1 - - [03/May/2023 17:25:12] "[36mGET /openapi/static/css/swagger-ui.css HTTP/1.1[0m" 304 - - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:25:13,504] INFO _log() L224  127.0.0.1 - - [03/May/2023 17:25:13] "[36mGET /openapi/static/js/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 - - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:25:14,096] INFO _log() L224  127.0.0.1 - - [03/May/2023 17:25:14] "GET /openapi/openapi.json HTTP/1.1" 200 - - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:25:14,120] INFO _log() L224  127.0.0.1 - - [03/May/2023 17:25:14] "[36mGET /openapi/static/images/swagger.svg HTTP/1.1[0m" 304 - - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:25:26,184] INFO _log() L224   * Detected change in 'D:\\Apps\\aulas_pos\\mvp\\backend\\app.py', reloading - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:25:26,398] INFO _log() L224   * Restarting with stat - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:25:27,535] INFO _log() L224  127.0.0.1 - - [03/May/2023 17:25:27] "GET /openapi/swagger HTTP/1.1" 200 - - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:25:27,669] INFO _log() L224  127.0.0.1 - - [03/May/2023 17:25:27] "[36mGET /openapi/static/css/swagger-ui.css HTTP/1.1[0m" 304 - - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:25:27,798] INFO _log() L224  127.0.0.1 - - [03/May/2023 17:25:27] "[36mGET /openapi/static/js/swagger-ui-bundle.js HTTP/1.1[0m" 304 - - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:25:27,906] INFO _log() L224  127.0.0.1 - - [03/May/2023 17:25:27] "[36mGET /openapi/static/js/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 - - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:25:28,388] INFO _log() L224  127.0.0.1 - - [03/May/2023 17:25:28] "GET /openapi/openapi.json HTTP/1.1" 200 - - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:25:28,392] INFO _log() L224  127.0.0.1 - - [03/May/2023 17:25:28] "[36mGET /openapi/static/images/swagger.svg HTTP/1.1[0m" 304 - - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:25:41,120] INFO _log() L224   * Detected change in 'D:\\Apps\\aulas_pos\\mvp\\backend\\app.py', reloading - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:25:41,246] INFO _log() L224   * Restarting with stat - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:25:43,243] INFO _log() L224  127.0.0.1 - - [03/May/2023 17:25:43] "GET /openapi/swagger HTTP/1.1" 200 - - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:25:43,360] INFO _log() L224  127.0.0.1 - - [03/May/2023 17:25:43] "[36mGET /openapi/static/css/swagger-ui.css HTTP/1.1[0m" 304 - - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:25:43,502] INFO _log() L224  127.0.0.1 - - [03/May/2023 17:25:43] "[36mGET /openapi/static/js/swagger-ui-bundle.js HTTP/1.1[0m" 304 - - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:25:43,595] INFO _log() L224  127.0.0.1 - - [03/May/2023 17:25:43] "[36mGET /openapi/static/js/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 - - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:25:44,033] INFO _log() L224  127.0.0.1 - - [03/May/2023 17:25:44] "GET /openapi/openapi.json HTTP/1.1" 200 - - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:25:44,062] INFO _log() L224  127.0.0.1 - - [03/May/2023 17:25:44] "[36mGET /openapi/static/images/swagger.svg HTTP/1.1[0m" 304 - - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:25:48,421] INFO _log() L224   * Detected change in 'D:\\Apps\\aulas_pos\\mvp\\backend\\app.py', reloading - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:25:48,575] INFO _log() L224   * Restarting with stat - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:25:49,989] INFO _log() L224  127.0.0.1 - - [03/May/2023 17:25:49] "[35m[1mGET /openapi/swagger HTTP/1.1[0m" 500 - - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:25:50,015] ERROR _log() L224  Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\serving.py", line 335, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\serving.py", line 322, in execute
+    application_iter = app(environ, start_response)
+  File "D:\Apps\aulas_pos\mvp\backend\app.py", line 107, in <module>
+    @app.put(
+  File "C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\flask_openapi3\scaffold.py", line 252, in decorator
+    self._do_decorator(
+  File "C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\flask_openapi3\openapi.py", line 248, in _do_decorator
+    header, cookie, path, query, form, body = parse_parameters(
+  File "C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\flask_openapi3\utils.py", line 356, in parse_parameters
+    query = get_func_parameter(func, parameter_name="query")
+  File "C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\flask_openapi3\utils.py", line 60, in get_func_parameter
+    annotation = pydantic.typing.evaluate_forwardref(annotation, globalns, globalns)
+  File "pydantic\typing.py", line 65, in pydantic.typing.evaluate_forwardref
+  File "C:\Python311\Lib\typing.py", line 871, in _evaluate
+    eval(self.__forward_code__, globalns, localns),
+  File "<string>", line 1, in <module>
+NameError: name 'contact_id' is not defined - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
+[2023-05-03 17:25:53,591] INFO _log() L224   * Detected change in 'D:\\Apps\\aulas_pos\\mvp\\backend\\app.py', reloading - call_trace=C:\Users\Rainerio\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py L224 
